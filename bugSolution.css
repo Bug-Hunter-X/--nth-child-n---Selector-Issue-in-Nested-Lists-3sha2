@@ -1,0 +1,9 @@
+/* bugSolution.css */
+
+li:nth-child(even) { /* Targets even list items regardless of nesting level*/
+  background-color: lightblue;
+}
+
+li:nth-child(odd) {
+  background-color: lightcoral;
+}
