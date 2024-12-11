@@ -1,0 +1,1 @@
+The CSS rule `:nth-child(n)` selector is not working correctly when applied to a nested list element.  The expected behavior is to style every other list item, but only the top-level list items are affected. 
